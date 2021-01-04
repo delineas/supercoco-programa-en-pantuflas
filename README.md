@@ -4,7 +4,9 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 
 ---
 
-**Fecha**: 01/01/2021 **Humor**: 😀
+**Fecha**: 01/01/2021 
+
+**Humor**: 😀
 
 **Hitos conseguidos**:
 
@@ -16,7 +18,9 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 
 ---
 
-**Fecha**: 02/01/2021 **Humor**: 😀
+**Fecha**: 02/01/2021 
+
+**Humor**: 😀
 
 **Hitos conseguidos**:
 
@@ -29,7 +33,9 @@ Estoy participando en el reto #ProgramaEnPantuflas.
 
 ---
 
-**Fecha**: 03/01/2021 **Humor**: ☹️
+**Fecha**: 03/01/2021 
+
+**Humor**: ☹️
 
 **Hitos conseguidos**:
 
